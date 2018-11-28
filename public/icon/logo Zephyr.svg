@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="312px" height="327px" viewBox="0 0 312 327" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0.25781251%" y1="49.7500002%" x2="101.257813%" y2="49.7500002%" id="linearGradient-1">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#091E42" offset="38.0464234%"></stop>
+            <stop stop-color="#53A0FD" offset="47.5247532%"></stop>
+            <stop stop-color="#5FA9E8" offset="53.90625%"></stop>
+            <stop stop-color="#B4EC51" offset="100%"></stop>
+        </linearGradient>
+        <text id="text-2" font-family="MaturaMTScriptCapitals, Matura MT Script Capitals" font-size="48" font-weight="normal" fill="#F0E888">
+            <tspan x="129" y="183">Z </tspan>
+        </text>
+        <filter x="-8.6%" y="-7.8%" width="117.3%" height="121.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Triangle" fill-opacity="0.8" fill="url(#linearGradient-1)" style="mix-blend-mode: color-burn;" points="156.5 131 202 173 111 173"></polygon>
+        <polygon id="Triangle" fill-opacity="0.8" fill="url(#linearGradient-1)" style="mix-blend-mode: color-burn;" transform="translate(156.500000, 194.000000) scale(1, -1) translate(-156.500000, -194.000000) " points="156.5 173 202 215 111 215"></polygon>
+        <g id="Z" fill="#F0E888" fill-opacity="1">
+            <use filter="url(#filter-3)" xlink:href="#text-2"></use>
+            <use xlink:href="#text-2"></use>
+        </g>
+    </g>
+</svg>

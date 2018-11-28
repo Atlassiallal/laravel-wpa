@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="166px" height="164px" viewBox="0 0 166 164" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="101.999998%" y2="100.999999%" id="linearGradient-1">
+            <stop stop-color="#DEDDE5" offset="0%"></stop>
+            <stop stop-color="#C86DD7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="53.1686902%" y2="127.331543%" id="linearGradient-2">
+            <stop stop-color="#1407F1" offset="0%"></stop>
+            <stop stop-color="#E2E2E2" offset="88.6990823%"></stop>
+            <stop stop-color="#D8D8D8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#1537F6" offset="0%"></stop>
+            <stop stop-color="#323444" offset="63.064487%"></stop>
+            <stop stop-color="#0919E9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_60pt@3x" transform="translate(-7.000000, -8.000000)">
+            <g id="Icon">
+                <rect id="Background" fill-opacity="0" fill="url(#linearGradient-1)" fill-rule="evenodd" x="0" y="0" width="180" height="180"></rect>
+                <g id="Glyph" stroke-width="1" fill-rule="evenodd" transform="translate(25.664062, 34.804688)" fill="#000000" fill-opacity="0.25">
+                    <path d="M7.03125,-7.03125 L64.3359375,121.640625 L7.03125,13.8867188 L7.03125,-7.03125 Z M121.640625,-7.03125 L121.640625,13.8867188 L64.3359375,121.640625 L121.640625,-7.03125 Z" id="Shadows" style="mix-blend-mode: overlay;"></path>
+                </g>
+                <g id="Smooth-Corners">
+                    <path d="M27.9492188,42.0117188 L122.871094,42.0117188 M45.3515625,0 C20.3045862,4.60105491e-15 -3.06736994e-15,20.3045862 0,45.3515625 L0,0 L45.3515625,0 Z M134.648438,0 L180,0 L180,45.3515625 C180,20.3045862 159.695414,-4.60105491e-15 134.648438,0 Z M180,134.648438 L180,180 L134.648438,180 C159.695414,180 180,159.695414 180,134.648438 Z M45.3515625,180 L0,180 L0,134.648438 C3.06736994e-15,159.695414 20.3045862,180 45.3515625,180 Z" opacity="0.01"></path>
+                    <text id="Z" fill="url(#linearGradient-2)" fill-rule="evenodd" font-family="MaturaMTScriptCapitals, Matura MT Script Capitals" font-size="98.4375" font-weight="normal">
+                        <tspan x="26.015625" y="105.09375">Z</tspan>
+                    </text>
+                    <ellipse id="Oval" stroke="url(#linearGradient-3)" stroke-width="13.359375" cx="90.1757812" cy="90.1757812" rx="76.1132812" ry="75.0585938"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
